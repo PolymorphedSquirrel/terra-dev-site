@@ -43,7 +43,6 @@ build/
 build/Release
 coverage
 jspm_packages
-lib
 lib-cov
 logs
 node_modules
